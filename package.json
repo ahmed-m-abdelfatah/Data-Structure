@@ -1,0 +1,20 @@
+{
+  "name": "Data-Structure",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS = 3",
+  "main": "Stack Array Implementation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-m-abdelfatah/Data-Structure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-m-abdelfatah/Data-Structure/issues"
+  },
+  "homepage": "https://github.com/ahmed-m-abdelfatah/Data-Structure#readme"
+}
