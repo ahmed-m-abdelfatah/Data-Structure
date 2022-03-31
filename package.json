@@ -1,8 +1,9 @@
 {
-  "name": "Data-Structure",
+  "name": "data-structure",
+  "type": "module",
   "version": "1.0.0",
   "description": "https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS = 3",
-  "main": "Stack Array Implementation.js",
+  "main": "./02_balanced_parentheses.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
