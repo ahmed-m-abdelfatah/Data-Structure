@@ -1,4 +1,4 @@
 {
   "type": "module",
-  "main": "./03_infix_to_postfix.js"
+  "main": "./04_postfix_evaluation.js"
 }
