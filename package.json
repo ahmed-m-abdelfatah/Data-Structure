@@ -1,4 +1,4 @@
 {
   "type": "module",
-  "main": "./02_balanced_parentheses.js"
+  "main": "./03_infix_to_postfix.js"
 }
