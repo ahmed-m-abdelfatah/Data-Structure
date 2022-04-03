@@ -1,4 +1,4 @@
 {
   "type": "module",
-  "main": "./04_postfix_evaluation.js"
+  "main": "./05_queue_array_implementation.js"
 }
