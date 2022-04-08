@@ -1,4 +1,4 @@
 {
   "type": "module",
-  "main": "./05_queue_array_implementation.js"
+  "main": "./06-circular_queue_array_implementation.js"
 }
